@@ -1,2 +1,2 @@
 
-![Velorra Readme](https://raw.githubusercontent.com/Velorra/Velorra/refs/heads/main/Velorra's%20GitHub%20Readme%20Image.png)
+![Velorra Readme](https://raw.githubusercontent.com/Velorra/Velorra/refs/heads/main/GitHub%20README%20File.png)

@@ -181,7 +181,7 @@ Scalable Digital Commerce Platforms Tailored To Business Requirements.
 
 <h1 align="center">Our Vision</h1>
 
-<p align="center">
+<p align="center" style="word-spacing: 6px;">
   To Establish Ourselves As A <b>Trusted And Preeminent Technology Partner</b> For Organizations Navigating The Complexities Of Digital Evolution. We Aspire To Achieve Global Recognition For Our Ability To Transform Complex Challenges Into Meaningful Strategic Opportunities Through <b>Innovative</b>, <b>Sustainable</b>, And <b>Culturally Intelligent</b> Technology Solutions That <b>Empower People</b>, <b>Strengthen Businesses</b>, And <b>Create Lasting Impact</b>.
 </p>
 

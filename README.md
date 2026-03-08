@@ -33,9 +33,8 @@
   <img src="https://img.shields.io/badge/Industries-18-F50641?style=for-the-badge&labelColor=180208"/>
 </div>
 
-<br/>
-
 ---
+<br/></br>
 
 <h1 align="center">About Velorra</h1>
 
@@ -55,9 +54,8 @@
 
 > **Our Objective:** Support Organizations With Reliable Digital Solutions That Improve Collaboration, Simplify Project Tracking, And Drive Measurable Results — Serving Clients Across **100+ Countries** And **18+ Industries**.
 
-<br/></br>
-
 ---
+<br/></br>
 
 <div align="center">
   <h1>Flagship Product</h1>
@@ -66,9 +64,8 @@
   <img src="https://img.shields.io/badge/Status-In%20Development-180208?style=for-the-badge&labelColor=F50641"/>
 </div>
 
-<br/></br>
-
 ---
+<br/></br>
 
 <h1 align="center">Solutions & Specialities</h1>
 
@@ -175,9 +172,8 @@ Scalable Digital Commerce Platforms Tailored To Business Requirements.
 </table>
 </div>
 
-<br/></br>
-
 ---
+<br/></br>
 
 <h1 align="center">Our Vision</h1>
 
@@ -185,9 +181,8 @@ Scalable Digital Commerce Platforms Tailored To Business Requirements.
   To Establish Ourselves As A <b>Trusted And Preeminent Technology Partner</b> For Organizations Navigating The Complexities Of Digital Evolution. We Aspire To Achieve Global Recognition For Our Ability To Transform Complex Challenges Into Meaningful Strategic Opportunities Through <b>Innovative</b>, <b>Sustainable</b>, And <b>Culturally Intelligent</b> Technology Solutions That <b>Empower People</b>, <b>Strengthen Businesses</b>, And <b>Create Lasting Impact</b>.
 </p>
 
-<br/></br>
-
 ---
+<br/></br>
 
 <div align="center">
   <h1>Get In Touch</h1>

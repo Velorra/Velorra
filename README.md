@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/Velorra/Velorra-Image-Utils/refs/heads/Velorra_Icons_v1/Velorra's%20-%20Icons/Social%20Media/Medium/Type%202/fi_2111543-1.png" width="32">
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <img src="https://img.shields.io/badge/Founded-2025-F50641?style=for-the-badge&labelColor=180208"/>
   &nbsp;&nbsp;
@@ -55,7 +55,7 @@
 
 > **Our Objective:** Support Organizations With Reliable Digital Solutions That Improve Collaboration, Simplify Project Tracking, And Drive Measurable Results — Serving Clients Across **100+ Countries** And **18+ Industries**.
 
-<br/>
+<br/></br>
 
 ---
 
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Status-In%20Development-180208?style=for-the-badge&labelColor=F50641"/>
 </div>
 
-<br/>
+<br/></br>
 
 ---
 
@@ -175,7 +175,7 @@ Scalable Digital Commerce Platforms Tailored To Business Requirements.
 </table>
 </div>
 
-<br/>
+<br/></br>
 
 ---
 
@@ -185,13 +185,15 @@ Scalable Digital Commerce Platforms Tailored To Business Requirements.
   To Establish Ourselves As A <b>Trusted And Preeminent Technology Partner</b> For Organizations Navigating The Complexities Of Digital Evolution. We Aspire To Achieve Global Recognition For Our Ability To Transform Complex Challenges Into Meaningful Strategic Opportunities Through <b>Innovative</b>, <b>Sustainable</b>, And <b>Culturally Intelligent</b> Technology Solutions That <b>Empower People</b>, <b>Strengthen Businesses</b>, And <b>Create Lasting Impact</b>.
 </p>
 
+<br/></br>
+
 ---
 
 <div align="center">
   <h1>Get In Touch</h1>
 
-  <b>Headquarters:</b> New Delhi, India &nbsp;&bull;&nbsp; <b>Office:</b> Kolkata, India
-  <br/><br/>
+<b>Headquarters:</b> New Delhi, India &nbsp;&bull;&nbsp; <b>Office:</b> Kolkata, India
+<br/><br/>
 
   <a href="mailto:velorra.hr@gmail.com">
     <img src="https://raw.githubusercontent.com/Velorra/Velorra-Image-Utils/refs/heads/Velorra_Icons_v1/Velorra's%20-%20Icons/Email/Property%201%3DOutline%20Light.png" width="28">
@@ -209,7 +211,7 @@ Scalable Digital Commerce Platforms Tailored To Business Requirements.
     <img src="https://raw.githubusercontent.com/Velorra/Velorra-Image-Utils/refs/heads/Velorra_Icons_v1/Velorra's%20-%20Icons/Social%20Media/Medium/Type%202/fi_2111543-1.png" width="32">
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <img src="https://img.shields.io/badge/License-Proprietary-180208?style=for-the-badge&labelColor=F50641"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -219,9 +221,10 @@ Scalable Digital Commerce Platforms Tailored To Business Requirements.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Security-Policy-180208?style=for-the-badge&labelColor=F50641"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <b>&copy; 2026 Velorra. All Rights Reserved.</b>
+<b>&copy; 2026 Velorra. All Rights Reserved.</b>
+
 </div>
 
 <br/>
